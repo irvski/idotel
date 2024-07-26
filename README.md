@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @idotel
+- 👋 Hi, I’m @irvksi
 - 👀 I’m interested in ... bash zsh python
 - 🌱 I’m currently learning ... how to surf
 - 💞️ I’m looking to collaborate on ... 
